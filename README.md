@@ -35,7 +35,6 @@ Pengembangan antarmuka pengguna untuk proyek eksternal.
 ### 📬 Get in Touch
 
 - **GitHub:** [GigaLukmanMaulana](https://github.com/GigaLukmanMaulana)
-- **LinkedIn:** [Tautan LinkedIn Anda]
 - **Email:** giga.lukman@gmail.com
 
 ---
